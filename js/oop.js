@@ -111,7 +111,7 @@ function Hamburger(bunType, vegetableGarnish, cheeseType, sauseType, meatPattyTy
     }
 }
 
-var hamburger1 = new Hamburger("White", "whole berries", "mozarella", "red", "chicken", "double", "0", "1", "2");
+var hamburger1 = new Hamburger("white", "whole berries", "mozarella", "red", "chicken", "double", "0", "1", "2");
 output.textContent = hamburger1.bio();
 
 // This page inspired by and adapted from https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
